@@ -9,7 +9,7 @@ Don't use in military or secret service organizations, or for illegal purposes.
 
 # What does it do? How does it work?
 <br>
-The script can be used  to execute arbitrary commands on the server hosting the <i> "Backdoor.php" </i> PHP program.
+The script can be used  to execute remote commands on the server hosting the <i> "Backdoor.php" </i> PHP program.
 To send and recieve commands use the <i> "shell.py" </i> script. 
 
 
